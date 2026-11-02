@@ -30,3 +30,6 @@ Configurar un proyecto Java e iniciar un programa HolaMundo.
 
 ## Revisión desde GitHub
 Un entorno correctamente configurado facilita compilar, ejecutar y depurar aplicaciones.
+
+## Seguimiento del equipo 1
+Revisión realizada desde la primera copia local.
