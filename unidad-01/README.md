@@ -22,3 +22,8 @@ Elegir una metodología para desarrollar una aplicación de biblioteca.
 - Diferencia entre ciclo de vida y metodología.
 - Ventajas y límites del modelo en cascada.
 - Iteraciones, backlog y entregas incrementales.
+
+## Ejercicios de práctica
+1. Redactar tres requisitos funcionales y dos no funcionales para una aplicación de biblioteca.
+2. Comparar en una tabla cascada, Scrum y Kanban.
+3. Proponer un backlog inicial de cinco tareas ordenadas por prioridad.
