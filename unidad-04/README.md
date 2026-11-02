@@ -27,3 +27,6 @@ Diseñar un diagrama de clases para un sistema de biblioteca.
 1. Identificar clases, atributos y métodos de Libro, Socio y Prestamo.
 2. Proponer asociaciones y multiplicidades para el sistema.
 3. Dibujar un diagrama (a mano o con herramienta) y guardarlo en la carpeta de la unidad.
+
+## Revisión desde GitHub
+Los diagramas de clases permiten comunicar la estructura y las relaciones del sistema.
