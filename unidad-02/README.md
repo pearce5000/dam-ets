@@ -17,3 +17,8 @@ Preparar un entorno de desarrollo reproducible y reconocer sus herramientas.
 
 ## Actividad de la unidad
 Configurar un proyecto Java e iniciar un programa HolaMundo.
+
+## Conceptos clave
+- Relación entre JDK, compilador y JVM.
+- Ruta del proyecto y directorio de trabajo.
+- Diferencias entre ejecutar desde el IDE y desde la terminal.
