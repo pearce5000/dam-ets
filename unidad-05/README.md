@@ -17,3 +17,8 @@ Representar interacciones y flujos de ejecución mediante diagramas UML.
 
 ## Actividad de la unidad
 Modelar el préstamo y la devolución de un libro.
+
+## Conceptos clave
+- Diferencia entre caso de uso y diagrama de actividad.
+- Orden temporal de los mensajes de un diagrama de secuencia.
+- Condiciones de guarda y transiciones de estado.
