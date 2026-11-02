@@ -17,3 +17,8 @@ Reconocer el ciclo de vida del software y comparar metodologías de desarrollo.
 
 ## Actividad de la unidad
 Elegir una metodología para desarrollar una aplicación de biblioteca.
+
+## Conceptos clave
+- Diferencia entre ciclo de vida y metodología.
+- Ventajas y límites del modelo en cascada.
+- Iteraciones, backlog y entregas incrementales.
