@@ -1,0 +1,19 @@
+# Unidad 03 - Control de versiones, documentación e integración
+
+## Descripción
+Gestionar cambios con Git, documentarlos y comprender la integración de modificaciones.
+
+## Objetivos
+- Comprender los conceptos fundamentales de esta unidad.
+- Identificar técnicas y herramientas aplicables al desarrollo de software.
+- Documentar actividades y ejercicios de la asignatura.
+
+## Contenidos
+1. Repositorio local y remoto; área de preparación.
+2. Commits, historial, ramas y buenas prácticas.
+3. Comandos add, commit, push, fetch y pull.
+4. README en Markdown y documentación técnica.
+5. Integración de cambios y resolución básica de conflictos.
+
+## Actividad de la unidad
+Documentar el flujo de trabajo Git de un equipo de desarrollo.
