@@ -22,3 +22,8 @@ Diseñar un diagrama de clases para un sistema de biblioteca.
 - Notación de atributos y métodos en UML.
 - Interpretación de multiplicidades 1, 0..1 y 0..*.
 - Distinción entre asociación, herencia y composición.
+
+## Ejercicios de práctica
+1. Identificar clases, atributos y métodos de Libro, Socio y Prestamo.
+2. Proponer asociaciones y multiplicidades para el sistema.
+3. Dibujar un diagrama (a mano o con herramienta) y guardarlo en la carpeta de la unidad.
