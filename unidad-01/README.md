@@ -27,3 +27,6 @@ Elegir una metodología para desarrollar una aplicación de biblioteca.
 1. Redactar tres requisitos funcionales y dos no funcionales para una aplicación de biblioteca.
 2. Comparar en una tabla cascada, Scrum y Kanban.
 3. Proponer un backlog inicial de cinco tareas ordenadas por prioridad.
+
+## Revisión desde GitHub
+La metodología elegida influye en la planificación, la colaboración y las entregas.
