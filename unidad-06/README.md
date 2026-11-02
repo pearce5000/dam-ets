@@ -27,3 +27,6 @@ Diseñar y probar una función que calcule multas por retraso.
 1. Definir tres casos de prueba para diasRetraso, incluyendo cero y un valor negativo.
 2. Explicar cómo inspeccionar una variable con un breakpoint en IntelliJ.
 3. Describir cómo registrar y reproducir un fallo detectado.
+
+## Revisión desde GitHub
+Las pruebas sistemáticas y la depuración aumentan la fiabilidad del software.
