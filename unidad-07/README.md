@@ -22,3 +22,8 @@ Proponer mejoras sobre un método largo que gestiona préstamos.
 - Diferencia entre corregir un error y refactorizar.
 - Señales de duplicación y responsabilidades mezcladas.
 - Relación entre refactorización y pruebas de regresión.
+
+## Ejercicios de práctica
+1. Identificar tres problemas de mantenimiento en un pseudocódigo de método largo.
+2. Proponer una refactorización mediante extracción de métodos.
+3. Explicar cómo comprobar que las salidas se mantienen tras el cambio.
