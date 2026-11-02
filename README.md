@@ -20,6 +20,7 @@ Las unidades se añadirán una a una.
 - [Unidad 04 - Elaboración de diagramas de clases](unidad-04/)
 - [Unidad 05 - Elaboración de diagramas de comportamiento](unidad-05/)
 - [Unidad 06 - Diseño, depuración y realización de pruebas](unidad-06/)
+- [Unidad 07 - Análisis de código y refactorización](unidad-07/)
 
 
 ## Estado
