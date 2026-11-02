@@ -17,3 +17,8 @@ Evaluar la calidad del código y mejorar su estructura sin cambiar su comportami
 
 ## Actividad de la unidad
 Proponer mejoras sobre un método largo que gestiona préstamos.
+
+## Conceptos clave
+- Diferencia entre corregir un error y refactorizar.
+- Señales de duplicación y responsabilidades mezcladas.
+- Relación entre refactorización y pruebas de regresión.
