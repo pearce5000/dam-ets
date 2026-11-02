@@ -18,3 +18,8 @@ Diseñar soluciones, localizar errores y verificar su funcionamiento.
 ## Actividad de la unidad
 Diseñar y probar una función que calcule multas por retraso.
 
+## Conceptos clave
+- Diferencia entre depurar y probar.
+- Elementos de un caso de prueba: entrada, resultado esperado y real.
+- Utilidad de los casos límite y de las regresiones.
+
