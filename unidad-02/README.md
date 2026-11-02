@@ -22,3 +22,8 @@ Configurar un proyecto Java e iniciar un programa HolaMundo.
 - Relación entre JDK, compilador y JVM.
 - Ruta del proyecto y directorio de trabajo.
 - Diferencias entre ejecutar desde el IDE y desde la terminal.
+
+## Ejercicios de práctica
+1. Anotar la salida de java -version y javac -version (sin datos privados).
+2. Crear y ejecutar una clase HolaMundo y explicar su método main.
+3. Documentar tres incidencias frecuentes al configurar un JDK y su solución.
