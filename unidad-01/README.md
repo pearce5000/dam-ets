@@ -30,3 +30,6 @@ Elegir una metodología para desarrollar una aplicación de biblioteca.
 
 ## Revisión desde GitHub
 La metodología elegida influye en la planificación, la colaboración y las entregas.
+
+## Seguimiento del equipo 2
+Revisión realizada desde la segunda copia local.
