@@ -17,3 +17,8 @@ Modelar la estructura estática de una aplicación mediante diagramas UML de cla
 
 ## Actividad de la unidad
 Diseñar un diagrama de clases para un sistema de biblioteca.
+
+## Conceptos clave
+- Notación de atributos y métodos en UML.
+- Interpretación de multiplicidades 1, 0..1 y 0..*.
+- Distinción entre asociación, herencia y composición.
