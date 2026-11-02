@@ -17,3 +17,8 @@ Gestionar cambios con Git, documentarlos y comprender la integración de modific
 
 ## Actividad de la unidad
 Documentar el flujo de trabajo Git de un equipo de desarrollo.
+
+## Conceptos clave
+- Diferencia entre repositorio local y remoto.
+- Relación entre working tree, staging y commit.
+- Diferencia entre fetch y pull.
