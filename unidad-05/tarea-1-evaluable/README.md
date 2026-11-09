@@ -4,7 +4,7 @@
 **Unidad 5:** Elaboración de diagramas de comportamiento  
 **Herramienta:** [diagrams.io](https://app.diagrams.net/)  
 **Repositorio público:** `tarea-1`  
-**Autor/a:** Nombre Apellidos  
+**Autor/a:** Daniel Morales  
 
 > **Modelo orientativo de entrega del alumnado.** Esta es una solución completa de referencia. Los diagramas se han guardado en `diagramas/` con formato `.drawio.png` para visualizarlos en GitHub y reabrirlos en diagrams.io.
 
